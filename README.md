@@ -9,7 +9,7 @@ Welcome to our Summer 2025 Internship! This public GitHub repository serves as a
 - **Participants:** High school interns, mentors, and collaborators
 - **Focus Areas:** Engineering, design, science communication, social media, and nonprofit operations
 
-Team coordination takes place in a Zulip workspace.
+Team coordination takes place in a [Zulip](https://zulip.com) workspace.
 
 
 
